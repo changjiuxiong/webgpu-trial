@@ -2,7 +2,7 @@ import {
   BufferAttribute,
   Matrix4,
   Vector3
-} from 'https://raw.githack.com/mrdoob/three.js/r111/build/three.module.js';
+} from './three.module.js';
 import glslangModule from './glslang.js';
 
 const painterSort = (a, b) => {
